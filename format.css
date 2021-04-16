@@ -96,6 +96,7 @@ box-sizing:border-box;
 .recuadroproducto{
     background-image: url("imagenes/recuadro_azulgris.png");
     background-repeat: no-repeat;
+    background-size: auto;
     width: auto;
     height: 150px;
     margin-left: 15px;
