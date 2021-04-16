@@ -89,6 +89,6 @@ box-sizing:border-box;
 }
 .fondoATW{
     background-color: #d5cbb2; 
-    width: 1600px; 
-    height: 100%;
+    width: auto; 
+    height: 1600px;
 }
