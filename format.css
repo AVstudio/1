@@ -113,3 +113,7 @@ box-sizing:border-box;
 .subtitulo2{
     font-size:150%
 }
+.contenidoCentrado{
+    margin-left: 30px;
+    margin-right: 30px;
+}
