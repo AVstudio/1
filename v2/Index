@@ -1,37 +1,53 @@
-<html>
+<!DOCTYPE html>
+      <HEAD>
+            
+            
+        <LINK REL=StyleSheet HREF="format.css" TYPE="text/css" MEDIA=screen>
+        <link rel="Shortcut icon" href="imagenes/LOGO.png">
+        <TITLE> inicio</TITLE>
+      </HEAD>
 
-<head><title> Randonometro</title></head>
+      <BODY>
 
+          <!--p div align="center" style="font-size:300%"><B > Pagina en desarrollo (AFTW)</B></p-->
 
-<body>
-
-
-<div class="contenido">
-          
-          <div class="menu" >
+          <div class="menu">
           <ul>
             <div class="imagenLogo"> <li><img src="imagenes/LOGO.png" height="50" width="50"></li> </div>
-            <div class="enlaces"> <li><a class="textoBlanco" href="../index.html">INICIO</a></li> </div>
           </ul>
         </div>
+            
+            
+        
 
-        <div class="fondoTrasMenu"></div>
-          
-          
-          
+        <!-- CUERPO-->
+        <div class="contenido">
+            <div class="fondoTrasMenu"></div>
+            <div class="fondoTransparente"><b class="textoBlanco" style="font-size : 400%" div align="center">PROYECTOS</b></div>
+              
+              
+              
+              <iframe src="index.html" width="1000px" height="700px">
 
-        </div>
-    
-    
 
 
 
 <!--  pie de pagina-->
         <div class="fondoNegro">
-            <ul>
-            <div> <li><a class="textoBlanco">© 2021 AVstudios, org.</a></li></div>
+            
+              <ul><div> <li><a class="textoBlanco">© 2021 AVstudios, org.</a></li></div></ul>
+              <ul>
+            <div class="enlaces"> <li><a class="textoBlanco" href="acerca.html">Acerca de nosotros</a></li> <br> <br> <li><a class="textoBlanco" href="terminos y condiciones.html">Terminos y condiciones</a></li> </div>
+
+            <div class="enlaces"> <li><a class="textoBlanco" href="">C</a></li> <br> <br> <li><a class="textoBlanco" href="PoliticaDePrivacidad.html">Politica de privacidad</a></li> </div>
           </ul>
+          
+          
+             
         </div>
-        
-</body>
-</html>
+
+          
+
+      </BODY>
+
+</HTML>
